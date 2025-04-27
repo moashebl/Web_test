@@ -1,0 +1,9 @@
+{
+    "html.format.enable": true,
+    "html.format.preserveNewLines": true,
+    "css.format.enable": true,
+    "css.format.newlineBetweenRules": true,
+    "css.format.newlineBetweenSelectors": true,
+    "css.format.preserveNewLines": true,
+    "files.trimTrailingWhitespace": false
+}
